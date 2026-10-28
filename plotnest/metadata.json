@@ -1,0 +1,6 @@
+{
+  "name": "PlotNest - Farm Land Sales & CRM",
+  "description": "Farm Land Sales, CRM & Customer Platform for buyers, sales reps, agents, and administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
